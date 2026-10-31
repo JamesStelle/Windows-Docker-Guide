@@ -3,10 +3,10 @@
 ## 本项目主要记录 Windows 系统下 Docker 开发环境的安装、配置、使用以及常见问题解决方案。
 
 ## 适用环境
-Windows 10 22H2
-WSL2 
-Ubuntu
-Docker Desktop 4.97.0
+- Windows 10 22H2
+- WSL2 
+- Ubuntu
+- Docker Desktop 4.97.0
 
 ### 准备工作与安装WSL2
 1 Win+R输入 optionalfeatures 打开 Windows功能对话框
